@@ -1,6 +1,6 @@
 # Robust Journey Planner
 
-This project is the term project of the Artificial Neural Networks course at Swiss Federal Institute of Technology Lausanne (EPFL). Details about the course can be found [here](https://edu.epfl.ch/coursebook/en/lab-in-data-science-EE-490-H).
+This project is the term project of the Lab in Data Science course at Swiss Federal Institute of Technology Lausanne (EPFL). Details about the course can be found [here](https://edu.epfl.ch/coursebook/en/lab-in-data-science-EE-490-H).
 
 <div align="center">
   <p>
