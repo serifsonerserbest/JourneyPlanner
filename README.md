@@ -40,12 +40,6 @@ In our study,we started by importing data and after cleaning it, we computed the
 ## Presentation
 [Final Presentation of the Project](handouts/final_presentation.pdf)
 
-## Video
-<div align="center">
-  <img src="handouts/final_presentation.mp4" width="800" />
-
-</div>
-
 ## Pro's and Con's of the Implementation
 
 ### Pro's
