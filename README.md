@@ -18,12 +18,20 @@ This project is the term project of the Artificial Neural Networks course at Swi
 
 </div>
 
+## Team Members
+
+* Serif Soner Serbest : serif.serbest@epfl.ch
+* Jelena Banjac : jelena.banjac@epfl.ch
+* Fatine Benhsain : fatine.benhsain@epfl.ch
+* Asli Yorusun : asli.yorusun@epfl.ch
+
+## Project Description
 
 How many times have you ever followed religiously the itinerary given by your favourite journey planner until you missed a connection because of a delay or a connection time that was unrealistically short so your whole route was screwed and you had to figure out what to do next? Too many I would guess !
 
-Our goal is to help you in these situations when you find yourself trapped because of a delay that could have been anticipated, and build a robut journey planner that takes into account the probabilities of delays happening depending on several criteria, using past data.
+Our goal is to help you in these situations when you find yourself trapped because of a delay that could have been anticipated, and build a robust journey planner that takes into account the probabilities of delays happening depending on several criteria, using past data.
 
-In our study,we started by importing data and after cleaning it, we computed the probabilities for different routes to have delays. Then we built a connection graph to get access to the reachability of any station pairs, and created a timetable with information about the departure and arrival stations of the input and times for a given day. Finally we were able to calculate each possible route by using our timetable and connection graph, providing confidence levels with each route.
+In our study, we started with importing and cleaning data, after that, we computed the probabilities of delays for different routes.Then, we built a connection graph to get access to the reachability of any station pairs, and created a timetable with information about the departure and arrival stations of the input and times for a given day. Finally, we calculate each possible route by using our timetable and connection graph, providing confidence levels with each route.
 
 ## Files
 
